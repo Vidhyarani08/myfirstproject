@@ -1,2 +1,2 @@
 hello GitHub!
-This is my First repository
+I am learning Github for It Job
